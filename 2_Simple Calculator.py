@@ -1,5 +1,5 @@
 # Q2: Simple Calculator
-# Performs basic arithmetic operations with error handling.
+# Performs basic arithmetic operations with error handling. 
 def simple_calculator():
     try:
         # Asking user for two numbers
