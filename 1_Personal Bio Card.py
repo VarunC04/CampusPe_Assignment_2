@@ -1,7 +1,7 @@
 # Q1: Personal Bio Card
 # This program displays a formatted bio card using variables.
 def personal_bio_card():
-     # Using variables for each field
+     # Using variables for each field 
     name = "Varun C"
     age = 21
     course = "Python Programming"
