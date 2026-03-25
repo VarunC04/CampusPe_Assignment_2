@@ -1,0 +1,6 @@
+groq
+requests
+google-genai
+cohere
+python-dotenv
+huggingface_hub
